@@ -1,0 +1,3 @@
+[DatabaseSection]
+database.dbname=superdatabase
+database.user=monusersecret
